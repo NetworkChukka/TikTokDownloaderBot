@@ -6,8 +6,7 @@ A TikTokBot that downloads trending tiktok videos and compiles them using FFmpeg
 
 ## Let's connect!
 <p>
-    <a href="https://t.me/TeamEliza" target="blank"><img src="https://img.shields.io/badge/@TeamEliza-30302f?style=flat&logo=telegram" /></a>
-    <a href="https://t.me/TikTok_Eliza_DTg_Bot" target="blank"><img src="https://img.shields.io/badge/@ElizaTDB-30302f?style=flat&logo=telegram" /></a>
+   <a href="https://t.me/anonymousbotz"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/anonymousbotzchat"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 <p align="center"><a href="https://t.me/TikTok_Eliza_DTg_Bot"> <img src="https://telegra.ph/file/f197cca7f4656dbf01dc4.jpg"></p>
