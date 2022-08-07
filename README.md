@@ -14,7 +14,7 @@ A TikTokBot that downloads trending tiktok videos and compiles them using FFmpeg
 <p align="center">
 
 ## Heroku Deployment
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PereraSehath/TikTokDownloaderBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NetworkChukka/TikTokDownloaderBot)
 
 
 ## Local
@@ -41,12 +41,12 @@ $ docker run -e "API_TOKEN=foo:bar" teletok
 
 
 ### Support & Updates 🎑
-<a href="https://t.me/ElizaSupporters"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Updates_of_ElizaBot"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/anonymousbotz"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/anonymousbotzchat"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
   
 ## Copyright & License 👮
 
- - Copyright (c) 2021 Sehath Perera ❤️️
- - Licensed under the terms of the [MIT License](https://github.com/PereraSehath/TikTokDownloaderBot/blob/main/LICENSE)
+ - Copyright (c) 2021 Network Chukka ❤️️
+ - Licensed under the terms of the [MIT License](https://github.com/NetworkChukka/TikTokDownloaderBot/blob/main/LICENSE)
     
 TikTokDownloaderBot is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the MIT License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.    
-## Made with ♥️ by [TeamELiza](https://github.com/Team-Eliza)
+## Made with ♥️ by [Anonymous Botz](https://t.me/anonymousbotz)
